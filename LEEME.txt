@@ -1,0 +1,5 @@
+Para que funcione hay que hacer lo siguiente:
+- Hay que instalar el exe de la carptea target/debug/Npcap.
+- Hay que descomprimir npcap-sdk-1.13 y meter los archivos en una ruta conocida, para despues crear una variable de sistema que se llame "LIB" e indicar
+  en ella la ruta de la carpeta con los archivos
+
